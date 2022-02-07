@@ -1,0 +1,43 @@
+.Header{
+    text-align: center;
+}
+.Header img{
+    width: 200px;
+}
+.nav_bar{
+    background-color: black;
+    line-height: 40px;
+    
+}
+.nav_bar a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: 0.2s ease all;
+}
+.nav_bar a:hover{
+    background-color: lightblue;
+    border-bottom: 2px solid red;
+}
+.search_box {
+    background-color: black;
+    align-items: center;
+}
+.search_box input{
+    width: 500px;
+    padding: 5px;
+}
+.search_icon{
+    color: #fff;
+    padding: 5px;
+    /* align-items: center; */
+    background-color: orange;
+    margin-top: 4px;
+    margin-bottom: -6px;
+    cursor: pointer;
+}
+

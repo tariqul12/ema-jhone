@@ -1,0 +1,24 @@
+.product_style{
+    display: flex;
+    
+}
+.product_style h4{
+    color: blue;
+    font-size: 15px;
+}
+.descpriation span{
+    font-weight: 500;
+}
+.descpriation h5 ,h6{
+    font-weight: 400;
+}   
+.product_rating{
+    display: flex;
+}
+.main_button{
+    border: 2px solid tomato;
+    background-color: orange;
+    padding: 2px 30px;
+    color: white;
+    cursor: pointer;
+}                                                                                                    

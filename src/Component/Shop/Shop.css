@@ -1,0 +1,13 @@
+.shop_container{
+    width: 75%;
+    border-right: 2px solid lightgray;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+.shop{
+    display: flex;
+}
+.cart{
+    padding: 10px;
+}
